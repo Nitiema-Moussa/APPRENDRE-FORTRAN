@@ -36,8 +36,8 @@ program thermique
   Tsol   = 20.0
 
   ! --- Initialisation ---
-  nmax = 50
-  TA1n = 22.0
+  nmax = 120
+  TA1n = 39.0
   TA2np1 = 23.0
 
   ! --- Boucle temporelle ---
