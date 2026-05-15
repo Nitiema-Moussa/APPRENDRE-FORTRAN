@@ -2,3 +2,4 @@
 /ErrorLog
 *.exe
 *.out
+*.o
