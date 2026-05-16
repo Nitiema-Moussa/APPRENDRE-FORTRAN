@@ -2,3 +2,6 @@
 /ErrorLog
 *.exe
 *.out
+*.o
+*.dat
+*.gp
